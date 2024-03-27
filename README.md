@@ -14,12 +14,20 @@ The dataset encompasses a diverse array of appliances commonly found in resident
 |----------|----------|
 | 1 | TV, water heater, fridge | 
 | 2| Row 2, Col 2 |
+| 3| Row 2, Col 2 |
+| 4| Row 2, Col 2 |
+| 5| Row 2, Col 2 |
+| 6| Row 2, Col 2 |
+| 7| Row 2, Col 2 |
+| 8| Row 2, Col 2 |
+| 9| Row 2, Col 2 |
+| 10| Row 2, Col 2 |
 
 ### Data Anonymity and Privacy
 Our commitment to privacy ensures that all personal-related data has been meticulously removed. Researchers can explore the dataset with confidence, knowing that it contains no identifiable information.
 
 ### Accessing the Data
-Researchers interested in accessing the dataset for analysis or research purposes can
+Researchers interested in accessing the dataset for analysis can contact [lu.jin@fit.fraunhofer.de](mailto:lu.jin@fit.fraunhofer.de)
 
 ### Contact Information
 For inquiries, collaborations, or further information regarding the data repository, please contact [lu.jin@fit.fraunhofer.de](mailto:lu.jin@fit.fraunhofer.de)
