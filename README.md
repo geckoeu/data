@@ -20,3 +20,6 @@ Our commitment to privacy ensures that all personal-related data has been meticu
 
 ### Accessing the Data
 Researchers interested in accessing the dataset for analysis or research purposes can
+
+### Contact Information
+For inquiries, collaborations, or further information regarding the data repository, please contact 
