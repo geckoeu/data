@@ -20,7 +20,7 @@ The dataset encompasses a diverse array of appliances commonly found in resident
 | 06| television, dishwasher, refrigerator |
 | 07| freezer, refrigerator, IT devices, TV, coffee machine, washing machine|
 | 08| Microwave, oven, tumble dryer, television, HiFi system|
-| 09| Row 2, Col 2 |
+| 09| Tumble dryer,washing machine, dishwasher, electric kettle, thermomix|
 | 10| Heat Pump, Trumbler, Tepanyaki,Large TV-Screen,refrigerator |
 |11| Heat Pump, Water Heaters, Cooling Appliances, refrigerator, Clothes Dryers |
 
