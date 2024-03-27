@@ -18,10 +18,11 @@ The dataset encompasses a diverse array of appliances commonly found in resident
 | 4| Row 2, Col 2 |
 | 5| Row 2, Col 2 |
 | 6| Row 2, Col 2 |
-| 7| Row 2, Col 2 |
-| 8| Row 2, Col 2 |
+| 7| freezer, Refrigerator, IT devices, TV, coffee machine, washing machine|
+| 8| Microwave, oven, tumble dryer, television, HiFi system|
 | 9| Row 2, Col 2 |
-| 10| Row 2, Col 2 |
+| 10| Heat Pump, Trumbler, Tepanyaki,Large TV-Screen,Refrigerator |
+|11| Heat Pump, Water Heaters, Cooling Appliances, Refrigerator, Clothes Dryers |
 
 ### Data Anonymity and Privacy
 Our commitment to privacy ensures that all personal-related data has been meticulously removed. Researchers can explore the dataset with confidence, knowing that it contains no identifiable information.
