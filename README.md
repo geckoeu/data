@@ -17,3 +17,6 @@ The dataset encompasses a diverse array of appliances commonly found in resident
 
 ### Data Anonymity and Privacy
 Our commitment to privacy ensures that all personal-related data has been meticulously removed. Researchers can explore the dataset with confidence, knowing that it contains no identifiable information.
+
+### Accessing the Data
+Researchers interested in accessing the dataset for analysis or research purposes can
