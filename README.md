@@ -14,3 +14,6 @@ The dataset encompasses a diverse array of appliances commonly found in resident
 |----------|----------|----------|
 | 1 | TV, heating | Row 1, Col 3 |
 | 2| Row 2, Col 2 | Row 2, Col 3 |
+
+### Data Anonymity and Privacy
+Our commitment to privacy ensures that all personal-related data has been meticulously removed. Researchers can explore the dataset with confidence, knowing that it contains no identifiable information.
