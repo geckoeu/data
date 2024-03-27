@@ -1,4 +1,4 @@
-# Living Lab Data Repository: Energy Consumption in Germany
+# Living Lab Data Repository: Energy Consumption in Germany Household
 Welcome to the Living Lab Data Repository, featuring anonymized data collected from users in Germany. Our repository prioritizes privacy, ensuring all personal information has been removed, guaranteeing the anonymity of the data.
 
 ### Data Coverage and Duration
