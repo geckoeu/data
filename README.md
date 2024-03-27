@@ -12,7 +12,7 @@ The dataset encompasses a diverse array of appliances commonly found in resident
 
 | No | appliances  | t |
 |----------|----------|----------|
-| 1 | TV, water heater,fridge | Row 1, Col 3 |
+| 1 | TV, water heater, fridge | Row 1, Col 3 |
 | 2| Row 2, Col 2 | Row 2, Col 3 |
 
 ### Data Anonymity and Privacy
