@@ -2,7 +2,7 @@
 Welcome to the Living Lab Data Repository, featuring anonymized data collected from users in Germany. Our repository prioritizes privacy, ensuring all personal information has been removed, guaranteeing the anonymity of the data.
 
 ### Data Coverage and Duration
-The repository covers a comprehensive range of appliances utilized by participants within the living lab environment. Data collection lasts for two month until now and in the end it will collect the data for 1 year, providing a substantial timeframe for analysis and research.
+The repository covers a comprehensive range of appliances utilized by participants within the living lab environment. Data collection lasts for two month until now and in the end it will collect the data for 1 year (2024), providing a substantial timeframe for analysis and research.
 
 ### Purpose
 This data repository serves as a valuable resource for researchers aiming to predict energy consumption patterns for various appliances. By leveraging this dataset, researchers can develop efficient models tailored to specific appliances, contributing to advancements in energy efficiency and sustainable practices.
