@@ -14,7 +14,7 @@ The dataset encompasses a diverse array of appliances commonly found in resident
 |----------|----------|
 | 01 | TV, water heater, fridge | 
 | 02| Row 2, Col 2 |
-| 03| Row 2, Col 2 |
+| 03| Mac_mini,MacServer,NAS,TV-Anlage, Washing machine|
 | 04| Row 2, Col 2 |
 | 05| refrigerator, washing machine, TV, fountain in the garden, coffee machine |
 | 06| television, dishwasher, refrigerator |
