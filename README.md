@@ -4,3 +4,9 @@ This data covers the appliances from..... and lasts from.....
 It can be used for other researchers to prediect energy consumption of each appliances and build the most efficient model. 
 
 
+| No | appliances  | t |
+|----------|----------|----------|
+| 1 | TV, heating | Row 1, Col 3 |
+| 2| Row 2, Col 2 | Row 2, Col 3 |
+
+
