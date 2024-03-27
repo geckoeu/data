@@ -8,7 +8,7 @@ The repository covers a comprehensive range of appliances utilized by participan
 This data repository serves as a valuable resource for researchers aiming to predict energy consumption patterns for various appliances. By leveraging this dataset, researchers can develop efficient models tailored to specific appliances, contributing to advancements in energy efficiency and sustainable practices.
 
 ### Data Description
-The dataset encompasses a diverse array of appliances commonly found in residential settings. It includes energy consumption metrics of the 3-5 most energy consumption appliances on each household.
+The dataset encompasses a diverse array of appliances commonly found in residential settings. It includes energy consumption metrics of the 3-5 most energy consumption appliances on each household. ( Data is updating...)
 
 | No | appliances  | 
 |----------|----------|
