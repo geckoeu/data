@@ -1,8 +1,8 @@
-# Living Lab
-This is the data repository that collected from the living lab users in Germany. All the personal related data is removed, therefore, you cannot detect any personal information from these data. 
-This data covers the appliances from..... and lasts from..... 
-It can be used for other researchers to prediect energy consumption of each appliances and build the most efficient model. 
+# Living Lab Data Repository: Energy Consumption in Germany
+Welcome to the Living Lab Data Repository, featuring anonymized data collected from users in Germany. Our repository prioritizes privacy, ensuring all personal information has been removed, guaranteeing the anonymity of the data.
 
+### Data Coverage and Duration
+The repository covers a comprehensive range of appliances utilized by participants within the living lab environment. Data collection lasts for two month until now, providing a substantial timeframe for analysis and research.
 
 | No | appliances  | t |
 |----------|----------|----------|
@@ -10,3 +10,4 @@ It can be used for other researchers to prediect energy consumption of each appl
 | 2| Row 2, Col 2 | Row 2, Col 3 |
 
 
+### Purpose
